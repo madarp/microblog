@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cc7980948881023e48d748a4cc2db7b9554ffd5bc1a49d38fdcbf7a56e0fa6fd"
+            "sha256": "4b1c97d1c85eac56e0652b2c6d152056a280387219ffdf97632e832b812bc290"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,11 +31,18 @@
         },
         "flask": {
             "hashes": [
-                "sha256:ad7c6d841e64296b962296c2c2dabc6543752985727af86a975072dea984b6f3",
-                "sha256:e7d32475d1de5facaa55e3958bc4ec66d3762076b074296aa50ef8fdc5b9df61"
+                "sha256:a31adc27de06034c657a8dc091cc5fcb0227f2474798409bff0e9674de31a026",
+                "sha256:b5ae63812021cb04174fcff05d560a98387a44d9cccd4652a2bfa131ba4e4c9b"
             ],
             "index": "pypi",
-            "version": "==1.0.3"
+            "version": "==1.1.0"
+        },
+        "flask-login": {
+            "hashes": [
+                "sha256:c815c1ac7b3e35e2081685e389a665f2c74d7e077cb93cecabaea352da4752ec"
+            ],
+            "index": "pypi",
+            "version": "==0.4.1"
         },
         "flask-migrate": {
             "hashes": [
@@ -77,9 +84,9 @@
         },
         "mako": {
             "hashes": [
-                "sha256:0cfa65de3a835e87eeca6ac856b3013aade55f49e32515f65d999f91a2324162"
+                "sha256:95ee720cc3453063788515d55bd7ce4a2a77b7b209e4ac70ec5c86091eb02541"
             ],
-            "version": "==1.0.12"
+            "version": "==1.0.13"
         },
         "markupsafe": {
             "hashes": [
